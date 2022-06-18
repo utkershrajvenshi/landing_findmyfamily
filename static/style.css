@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(20, 29, 29);
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2, h4{
+    text-align: center;
+}
+
+#view-project-btn{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: rgb(37, 37, 37);
+    color: aliceblue;
+    width: 160px;
+    height: 50px;
+    border: 2px solid rgb(165, 165, 165);
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: rgb(27, 27, 27);
+    cursor: pointer;
+}
+
+.coming-soon{
+    display: inline;
+    color: rgb(93, 177, 97);
+}
+
+a{
+    color: blueviolet;
+    text-decoration: dotted;
+}
+
+a:visited{
+    color: rgb(98, 57, 136);
+}
+
+a:hover{
+    color: rgb(184, 109, 255);
+}
